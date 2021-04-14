@@ -16,7 +16,7 @@
     "require": {
         "php": "^7.3",
         "laravel/framework": "^8.0",
-        "microsoft/application-insights": "dev-feature/laravel-8"
+        "microsoft/application-insights": "dev-master"
     },
     "autoload": {
         "psr-4": {
