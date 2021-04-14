@@ -35,7 +35,12 @@
       "repositories": [
         {
             "type": "path",
-            "url": "./packages/microsoft-application-insights"
+            "url": "./packages/microsoft-application-insights",
+            "options": {
+                "versions": {
+                    "microsoft/application-insights": "*"
+                }
+            }
         }
     ]
 }
